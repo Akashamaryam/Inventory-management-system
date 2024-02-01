@@ -1,0 +1,5 @@
+C01   Liner   5   300
+SC01   Serums   56   1800
+B13   Pillowcase   15   500
+C02   Mascara   5   200
+T12   Napkins   4   100
